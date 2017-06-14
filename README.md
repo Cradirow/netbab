@@ -16,6 +16,9 @@ Let's lunch with Net-bab.
 
 ## USERS
 I'll announce how to use it.
+This program need Meteor JS. You can install in www.meteor.com or $git npm install meteor.
+And cd to project and type >>meteor.
+
 1. Go localhost:3000 and sign up. ID and Password and E-mails are available.
 
 1. Vote or Create the menu.
